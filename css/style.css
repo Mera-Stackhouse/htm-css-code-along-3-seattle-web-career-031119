@@ -76,7 +76,7 @@ event states. Use a colon */
 	text-decoration: none;
 }
 
-/* combining with a comma if the values will all be the same */
+/* combining with a comma if the values will all be the same saves time/space */
 
 #details a:hover {
 	color: black;
